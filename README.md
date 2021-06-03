@@ -13,5 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lanrayy&show_icons=true&locale=en&layout=compact" alt="Lanrayy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lanrayy&show_icons=true&locale=en" alt="lanrayy" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lanrayy&show_icons=true&locale=en" alt="Lanrayy" /></p>
 
