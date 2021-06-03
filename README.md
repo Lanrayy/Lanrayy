@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lanrayy</h1>
 <h3 align="center">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
-
-
-- 🔭 I’m currently working on **food-label-website**
+- 🔭 I’m currently working on [food-label-website](https://food-label-website.vercel.app)
 
 - 🌱 I’m currently learning **Python and Javascript**
+
+- 💬 Ask me about **Food Labelling app**
 
 
 <h3 align="left">Languages and Tools:</h3>
