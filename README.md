@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lanrayy</h1>
 <h3 align="center">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lanrayy" alt="Lanrayy" /></a> </p>
+
 
 - 🔭 I’m currently working on **food-label-website**
 
