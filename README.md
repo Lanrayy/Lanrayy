@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
 - 🔭 I’m currently working on [food-label-website](https://food-label-website.vercel.app)
+- 🔭 I’m currently working on a grade calculator.
 
 - 🌱 I’m currently learning **Python and Javascript**
 
