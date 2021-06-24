@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **Python and Javascript**
 
 
-Some of my projects
+Some of my recent projects:
+- 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk)**
 - 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app)**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/)**
 - 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app)**
