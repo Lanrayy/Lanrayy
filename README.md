@@ -27,8 +27,6 @@ Some of my recent projects:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lanrayy&show_icons=true&locale=en&hide=powershell,shell&count_private=true" alt="Lanrayy"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=Lanrayy&show_icons=true&locale=en&layout=compact" alt="Lanrayy"/></p>
-
 [![Lanray's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true)](https://github.com/Lanrayy/github-readme-stats)
 
 More infomation avalable at: [ReadME stats](https://github.com/anuraghazra/github-readme-stats)
