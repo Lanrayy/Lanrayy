@@ -5,9 +5,14 @@
 
 - 🌱 I’m currently learning **Python and Javascript**
 
+
+Some of my projects
 - 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app)**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/)**
 - 💬 Ask me about **[Simple Price Grid](https://lanrayy.github.io/single-price-grid-component-master/)**
+- 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app)
+- 💬 Ask me about **[The Pig Game Version 2](https://lanrayy.github.io/the-pig-game-v2/)
+- 
 
 
 <h3 align="left">Languages and Tools:</h3>
