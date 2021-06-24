@@ -29,7 +29,7 @@ Some of my recent projects:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=Lanrayy&show_icons=true&locale=en&layout=compact" alt="Lanrayy"/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanrayy)](https://github.com/Lanrayy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanrayy&theme=gradient)](https://github.com/Lanrayy/github-readme-stats)
 
 
 [![Lanray's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true)](https://github.com/Lanrayy/github-readme-stats)
