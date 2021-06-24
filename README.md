@@ -28,5 +28,3 @@ Some of my recent projects:
 [![Lanray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanrayy)](https://github.com/Lanrayy/github-readme-stats)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lanrayy&show_icons=true&locale=en" alt="Lanrayy" /></p>
-
