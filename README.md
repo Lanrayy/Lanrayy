@@ -1,7 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lanrayy</h1>
 
-# Hello, folks! 
-
 <h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
 - 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
