@@ -12,14 +12,14 @@
 You can see all of my projects and full portfolio at:
 <h3>Some of my recent projects:</h3>
 
-- 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
-- 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
-- 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
-- 💬 Ask me about **[The Pig Game App](https://lanrayy.github.io/the-pig-game-v2/).**
-- 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app).**
-- 💬 Ask me about **[Simple Price Grid](https://lanrayy.github.io/single-price-grid-component-master/).**
-- 💬 Ask me about **[Bootcamp Testimonials](https://lanrayy.github.io/bootcamp-testimonials/).**
-- 💬 Ask me about **[Four Card Feature Section](https://lanrayy.github.io/four-card-feature-section/).**
+- 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk){:target="_blank"}.**
+- 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app){:target="_blank"}.**
+- 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/){:target="_blank"}.**
+- 💬 Ask me about **[The Pig Game App](https://lanrayy.github.io/the-pig-game-v2/){:target="_blank"}.**
+- 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app){:target="_blank"}.**
+- 💬 Ask me about **[Simple Price Grid](https://lanrayy.github.io/single-price-grid-component-master/){:target="_blank"}.**
+- 💬 Ask me about **[Bootcamp Testimonials](https://lanrayy.github.io/bootcamp-testimonials/){:target="_blank"}.**
+- 💬 Ask me about **[Four Card Feature Section](https://lanrayy.github.io/four-card-feature-section/){:target="_blank"}.**
 
 
 <h3 align="left">Languages and Tools:</h3>
