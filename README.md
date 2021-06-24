@@ -2,7 +2,7 @@
 
 # Hello, folks! 
 
-<h3 align="center">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
+<h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
 - 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
 
