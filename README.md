@@ -31,5 +31,5 @@ Some of my recent projects:
 
 [![Lanray's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true)](https://github.com/Lanrayy/github-readme-stats)
 
-More infomation avalable at: [ReadME stats](https://github.com/anuraghazra/github-readme-stats)
+More infomation avalable at: [README stats](https://github.com/anuraghazra/github-readme-stats)
 
