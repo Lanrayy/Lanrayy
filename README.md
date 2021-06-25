@@ -7,6 +7,11 @@
 - 🌱 I’m currently experimenting with **Optical Character Recognition with Python and Javascript.**
 - 🌱 I’m currently also learning with **Javascript & JQuery.**
 
+<h3>Some popular repositories </h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&repo=the-pig-game-v2)](https://github.com/Lanrayy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&repo=grade-calculator)](https://github.com/Lanrayy/github-readme-stats)
+
+
 You can see all of my projects and full portfolio at:
 <h3>Some of my recent projects:</h3>
 
