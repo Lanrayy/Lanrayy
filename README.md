@@ -25,6 +25,9 @@ You can see all of my projects and full portfolio at:
 
 <!-- Github top languages -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanrayy&layout=compact)](https://github.com/Lanrayy/github-readme-stats)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lanrayy&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445" alt="Lanrayy"/>
 </p>
 
