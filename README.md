@@ -9,11 +9,11 @@
 
 <h3>Popular repositories </h3>
 
-<a href="https://github.com/Lanrayy/grade-calculator" target="_blank">
+<a href="https://github.com/Lanrayy/grade-calculator" target="blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=grade-calculator" />
 </a>
 
-<a href="https://github.com/Lanrayy/the-pig-game-v2" target="_blank">
+<a href="https://github.com/Lanrayy/the-pig-game-v2" target="blank">
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=the-pig-game-v2" />
 </a>
 
