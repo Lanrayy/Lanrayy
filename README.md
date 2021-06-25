@@ -7,12 +7,21 @@
 - 🌱 I’m currently experimenting with **Optical Character Recognition with Python and Javascript.**
 - 🌱 I’m currently also learning with **Javascript & JQuery.**
 
-<h3>Some popular repositories </h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&repo=the-pig-game-v2)](https://github.com/Lanrayy/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&repo=grade-calculator)](https://github.com/Lanrayy/github-readme-stats)
+<h3>Popular repositories </h3>
 
+<a href="https://github.com/Lanrayy/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=grade-calculator" />
+</a>
 
-You can see all of my projects and full portfolio at:
+<a href="https://github.com/Lanrayy/github-readme-stats">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=the-pig-game-v2" />
+</a>
+
+<br/>
+
+<br/>
+
+<p>You can see all of my projects and full portfolio at:</p>
 <h3>Some of my recent projects:</h3>
 
 - 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
