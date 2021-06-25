@@ -9,11 +9,11 @@
 
 <h3>Popular repositories </h3>
 
-<a href="https://github.com/Lanrayy/grade-calculator" target="blank">
+<a href="https://github.com/Lanrayy/grade-calculator" target="_blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=grade-calculator" />
 </a>
 
-<a href="https://github.com/Lanrayy/the-pig-game-v2" target="blank">
+<a href="https://github.com/Lanrayy/the-pig-game-v2" target="_blank">
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=the-pig-game-v2" />
 </a>
 
@@ -39,11 +39,11 @@
 
 <!-- Github top languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanrayy&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/Lanrayy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanrayy&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/Lanrayy/)
 
 <!-- Gitbub stats -->
 
-[![Lanrayy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Lanrayy/github-readme-stats)
+[![Lanrayy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Lanrayy/)
 
 More infomation avalable at: [README stats](https://github.com/anuraghazra/github-readme-stats)
 
