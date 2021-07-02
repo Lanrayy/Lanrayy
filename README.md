@@ -43,7 +43,7 @@
 
 <!-- Gitbub stats -->
 
-[![Lanrayy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Lanrayy/)
+[![Lanrayy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Lanrayy&count_private=true&hide=contribs&show_icons=true&bg_color=29,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Lanrayy/)
 
 More infomation avalable at: [README stats](https://github.com/anuraghazra/github-readme-stats)
 
