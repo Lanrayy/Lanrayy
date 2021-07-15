@@ -32,7 +32,7 @@
 - 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
 - 💬 Ask me about **[Tip Calculator App](https://lanrayy.github.io/tip-calculator-app/).**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
-- - 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
+- 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
 - 💬 Ask me about **[The Pig Game App](https://lanrayy.github.io/the-pig-game-v2/).**
 - 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app).**
 - 💬 Ask me about **[Simple Price Grid](https://lanrayy.github.io/single-price-grid-component-master/).**
