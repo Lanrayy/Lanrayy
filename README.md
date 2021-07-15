@@ -3,6 +3,7 @@
 <h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
 - 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
+- 🔭 I’m currently working on a [Tip calculator](https://lanrayy.github.io/tip-calculator-app/).
 
 - 🌱 I’m currently experimenting with **Optical Character Recognition with Python and Javascript.**
 - 🌱 I’m currently also learning with **Javascript & JQuery.**
@@ -17,6 +18,10 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=the-pig-game-v2" />
 </a>
 
+<a href="https://github.com/Lanrayy/the-pig-game-v2" target="_blank">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=tip-calculator-app" />
+</a>
+
 <br/>
 
 <br/>
@@ -25,8 +30,9 @@
 <h3>Some of my recent projects:</h3>
 
 - 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
-- 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
+- 💬 Ask me about **[Tip Calculator App](https://lanrayy.github.io/tip-calculator-app/).**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
+- - 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
 - 💬 Ask me about **[The Pig Game App](https://lanrayy.github.io/the-pig-game-v2/).**
 - 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app).**
 - 💬 Ask me about **[Simple Price Grid](https://lanrayy.github.io/single-price-grid-component-master/).**
