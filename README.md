@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 
 - 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
-- 🔭 I’m currently working on a [tip calculator](https://lanrayy.github.io/tip-calculator-app/).
+- 🔭 I’m currently working on a [tip calculator](https://github.com/Lanrayy/tip-calculator-app).
 
 - 🌱 I’m currently experimenting with **Optical Character Recognition with Python and Javascript.**
 - 🌱 I’m currently also learning with **Javascript & JQuery.**
@@ -18,7 +18,7 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=the-pig-game-v2" />
 </a>
 
-<a href="https://github.com/Lanrayy/the-pig-game-v2" target="_blank">
+<a href="https://github.com/Lanrayy/tip-calculator-app" target="_blank">
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=tip-calculator-app" />
 </a>
 
