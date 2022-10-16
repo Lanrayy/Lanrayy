@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lanre</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lanre Sodeinde</h1>
 
 <h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 I am a junior software engineer passionate about in building web, mobile and desktop apps. Always curious,  willing to explore and learn about new exciting technologies.
