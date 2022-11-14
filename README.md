@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 I am a junior software engineer passionate about in building web, mobile and desktop apps. Always curious,  willing to explore and learn about new exciting technologies.
 
-- 🔭 I recently won a hackathon: Check out my solution here: [ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone)).
+- 🔭 I recently won a hackathon 🎉 : Check out my solution here: [ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone)).
 - 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
 - 🔭 I’m currently working on a [tip calculator](https://lanrayy.github.io/tip-calculator-app/).
 
