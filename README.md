@@ -3,6 +3,7 @@
 <h3 align="left">Software Engineer 👨🏿‍💻 | Graphic Designer ✍🏿</h3>
 I am a junior software engineer passionate about in building web, mobile and desktop apps. Always curious,  willing to explore and learn about new exciting technologies.
 
+- 🔭 I recently won a hackathon: Check out my solution here: [ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone)).
 - 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
 - 🔭 I’m currently working on a [tip calculator](https://lanrayy.github.io/tip-calculator-app/).
 
@@ -30,6 +31,8 @@ I am a junior software engineer passionate about in building web, mobile and des
 <p>You can see all of my projects and full portfolio at:</p>
 <h3>Some of my recent projects:</h3>
 
+
+- 💬 Ask me about **[ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone)).**
 - 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
 - 💬 Ask me about **[Tip Calculator App](https://lanrayy.github.io/tip-calculator-app/).**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
