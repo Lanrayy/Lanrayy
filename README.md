@@ -32,7 +32,7 @@ I am a junior software engineer passionate about in building web, mobile and des
 <h3>Some of my recent projects:</h3>
 
 
-- 💬 Ask me about **[ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone)).**
+- 💬 Ask me about **[ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone).**
 - 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
 - 💬 Ask me about **[Tip Calculator App](https://lanrayy.github.io/tip-calculator-app/).**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
