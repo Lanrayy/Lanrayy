@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Lanrayy&style=for-the-badge)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lanre Sodeinde</h1>
 
 <h3 align="left">Junior Software Engineer 👨🏿‍💻 </h3>
@@ -21,7 +22,11 @@ I am final year computer science student and junior software engineer passionate
 </a>
 
 <a href="https://github.com/Lanrayy/tip-calculator-app" target="_blank">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=tip-calculator-app" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=tip-calculator-app" />
+</a>
+
+<a href="https://github.com/Lanrayy/ACSHack-ZenZone" target="_blank">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=ACSHack-ZenZone" />
 </a>
 
 <br/>
