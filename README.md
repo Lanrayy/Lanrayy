@@ -2,14 +2,17 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lanre Sodeinde</h1>
 
 <h3 align="left">Junior Software Engineer 👨🏿‍💻 </h3>
-I am final year computer science student and junior software engineer passionate about in building web, mobile and desktop apps. Always curious, willing to explore and learn about new exciting technologies.
-
-- 🔭 I recently won a hackathon 🎉 : Check out my solution here: [ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone).
-- 🔭 I’m currently working on a [grade calculator](https://lanrayy.github.io/grade-calculator/).
-- 🔭 I’m currently working on a [tip calculator](https://lanrayy.github.io/tip-calculator-app/).
-
+I am final year computer science student and junior software engineer passionate about in building web, mobile and desktop apps. Always curious, willing to explore and learn about new exciting technologies.  
+  
+   
+- 🎉 I recently won a hackathon : Check out my solution here: [ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone).
+- 🔭 I built a scooter hiring app using Flask: Check out my solution here: [.sctr app](https://ec2-52-56-142-90.eu-west-2.compute.amazonaws.com).
+- 🔭 I built a university [grade calculator](https://lanrayy.github.io/grade-calculator/) using HTML, CSS and JavaScript.
+- 🔭 I built a beautiful and easy to use [tip calculator](https://lanrayy.github.io/tip-calculator-app/).
+- 🛠 I built the pig game using HTML, CSS and JavaScript. [The Pig Game](https://lanrayy.github.io/the-pig-game-v2/).
+- 🔎 Experimenting with complex layout in CSS: [Four Card Section](https://four-card-feature-section-plum.vercel.app).
 - 🌱 I’m currently experimenting with **Optical Character Recognition with Python and Javascript.**
-- 🌱 I’m currently also learning with **Javascript & JQuery.**
+- 🌱 I’m currently also learning **Javascript & JQuery.**
 
 <h3>Popular repositories </h3>
 
@@ -24,13 +27,14 @@ I am final year computer science student and junior software engineer passionate
 <a href="https://github.com/Lanrayy/tip-calculator-app" target="_blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=tip-calculator-app" />
 </a>
-
+<a href="https://github.com/Lanrayy/software-engineering-project-comp2913" target="_blank">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=software-engineering-project-comp2913" />
+</a>
 <a href="https://github.com/Lanrayy/ACSHack-ZenZone" target="_blank">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=ACSHack-ZenZone" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Lanrayy&show_owner=true&repo=ACSHack-ZenZone" />
 </a>
 
 <br/>
-
 <br/>
 
 <p>You can see all of my projects and full portfolio at:</p>
