@@ -42,12 +42,12 @@ I am final year computer science student and junior software engineer passionate
 
 
 - 💬 Ask me about **[ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone).**
-- 💬 Ask me about **[Hi Klas Fashion](https://www.hi-klas-fashion.co.uk).**
+- Ask me about **[Lupton Hanbook](https://github.com/Lanrayy/Lupton-HandBook).**
+- 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
 - 💬 Ask me about **[Tip Calculator App](https://lanrayy.github.io/tip-calculator-app/).**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
-- 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
-- 💬 Ask me about **[The Pig Game App](https://lanrayy.github.io/the-pig-game-v2/).**
-- 💬 Ask me about **[The Pig Game Version 1](https://the-pig-game.vercel.app).**
+- 💬 Ask me about **[The Pig Game App v2](https://lanrayy.github.io/the-pig-game-v2/).**
+- 💬 Ask me about **[The Pig Game App v1](https://the-pig-game.vercel.app).**
 - 💬 Ask me about **[Simple Price Grid](https://lanrayy.github.io/single-price-grid-component-master/).**
 - 💬 Ask me about **[Bootcamp Testimonials](https://lanrayy.github.io/bootcamp-testimonials/).**
 - 💬 Ask me about **[Four Card Feature Section](https://lanrayy.github.io/four-card-feature-section/).**
