@@ -42,7 +42,7 @@ I am final year computer science student and junior software engineer passionate
 
 
 - 💬 Ask me about **[ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone).**
-- Ask me about **[Lupton Hanbook](https://github.com/Lanrayy/Lupton-HandBook).**
+- 💬 Ask me about **[Lupton Handbook](https://github.com/Lanrayy/Lupton-HandBook).**
 - 💬 Ask me about **[Food Labelling App](https://food-label-website.vercel.app).**
 - 💬 Ask me about **[Tip Calculator App](https://lanrayy.github.io/tip-calculator-app/).**
 - 💬 Ask me about **[Grade Calculator App](https://lanrayy.github.io/grade-calculator/).**
