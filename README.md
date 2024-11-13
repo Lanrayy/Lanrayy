@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lanre Sodeinde</h1>
 
 <h3 align="left">Junior Software Engineer 👨🏿‍💻 </h3>
-I am final year computer science student and junior software engineer passionate about in building web, mobile and desktop apps. Always curious, willing to explore and learn about new exciting technologies.  
+I junior software engineer passionate about in building web, mobile and desktop apps. Always curious, willing to explore and learn about new exciting technologies.  
   
    
 - 🎉 I recently won a hackathon : Check out my solution here: [ZenZone](https://github.com/Lanrayy/ACSHack-ZenZone).
